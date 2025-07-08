@@ -8,6 +8,8 @@ This repository contains a serverless Todo application leveraging [Amazon Dynamo
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Architecture](#architecture)
+    - [What could you do?](#what-could-you-do)
+    - [What did I do?](#what-did-i-do)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Usage](#usage)
@@ -29,7 +31,10 @@ This project demonstrates a serverless architecture for a Todo application using
 - **CloudWatch Logs** for monitoring Lambda executions and application activity.
 
 ## Architecture
+### What could you do?
+![Architecture Diagram](images/e.png)
 
+### What did I do?  
 ![Architecture Diagram](images/architecture.png)
 
 **Flow:**
