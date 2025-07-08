@@ -4,15 +4,22 @@ This repository contains a serverless Todo application leveraging [Amazon Dynamo
 
 ## Table of Contents
 
-- [Serverless Todo Application with AWS DynamoDB](#serverless-todo-application-with-aws-dynamodb)amoDB](#serverless-todo-application-with-aws-dynamodb)
-    - [Table of Contents](#table-of-contents)
-    - [Overview](#overview)
-    - [Architecture](#architecture)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Usage](#usage)
-    - [Examples](#examples)
-    - [Resources](#resources)
+- [Serverless Todo Application with AWS DynamoDB](#serverless-todo-application-with-aws-dynamodb)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Architecture](#architecture)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Usage](#usage)
+  - [Examples](#examples)
+    - [Todo Application Interface](#todo-application-interface)
+    - [DynamoDB Database Items](#dynamodb-database-items)
+    - [Lambda Function Trigger](#lambda-function-trigger)
+    - [Lambda Function Code](#lambda-function-code)
+    - [Adding New Items](#adding-new-items)
+    - [CloudWatch Logs Monitoring](#cloudwatch-logs-monitoring)
+  - [Screenshots](#screenshots)
+  - [Resources](#resources)
 
 ## Overview
 
